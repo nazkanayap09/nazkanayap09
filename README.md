@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm NAC<br><br>🧠 Siswa SIJA | 🌐 Calon Software Engineer | ☕ Ngoding sambil minum coffe or matcha  yuk<br>| Jangann kira aku males debugging kamu kira aku gampang berpaling<br><br>-- AYO KENALAN !! --<br>- 🔭 Lagi belajar: Web Technologies and Software Fundamental<br>- 🌱 Sedang fokus: HTML, CSS, JavaScript<br>- 🎯 Goal: bikin aplikasi yang bisa bermanfaat di bidang <br>SCIENCE TECHNOLOGY ENGINEERING MATHEMATICS
+ Hi, I'm NAC<br><br>🧠 Siswa SIJA | 🌐 Calon Software Engineer | ☕ Ngoding sambil minum coffe or matcha  yuk<br>| Jangann kira aku males debugging kamu kira aku gampang berpaling<br><br>-- AYO KENALAN !! --<br>- 🔭 Lagi belajar: Web Technologies and Software Fundamental<br>- 🌱 Sedang fokus: HTML, CSS, JavaScript, sama ini apatuh namanya Backend lah dikit-dikit<br>- 🎯 Goal: bikin aplikasi yang bisa bermanfaat di bidang <br>SCIENCE TECHNOLOGY ENGINEERING MATHEMATICS
 
 
 ## 🌐 Socials:
